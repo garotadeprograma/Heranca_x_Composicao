@@ -1,0 +1,12 @@
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\bin\Debug\net6.0\Pokemon.Model.deps.json
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\bin\Debug\net6.0\Pokemon.Model.dll
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\bin\Debug\net6.0\Pokemon.Model.pdb
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\obj\Debug\net6.0\Pokemon.Model.csproj.AssemblyReference.cache
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\obj\Debug\net6.0\Pokemon.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\obj\Debug\net6.0\Pokemon.Model.AssemblyInfoInputs.cache
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\obj\Debug\net6.0\Pokemon.Model.AssemblyInfo.cs
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\obj\Debug\net6.0\Pokemon.Model.csproj.CoreCompileInputs.cache
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\obj\Debug\net6.0\Pokemon.Model.dll
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\obj\Debug\net6.0\refint\Pokemon.Model.dll
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\obj\Debug\net6.0\Pokemon.Model.pdb
+C:\Projetos_Estudos\Desenvolvedor_io\Fundamentos de Arquitetura de Software\OOP\Heranca_x_Composicao\CadastroPokemonSimples\Pokemon.Model\obj\Debug\net6.0\ref\Pokemon.Model.dll
