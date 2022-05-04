@@ -26,6 +26,31 @@ namespace Pokemon.Model
         public bool isHurt { get; set; }
 
     }
+
+    public class ShowPokemonStatus
+    {
+        public ShowPokemonStatus()
+        {
+            var pokemon1 = new PokemonStatus
+            {
+                Id = 1,
+                Nome = "Squirtle",
+                Tipo = "Água",
+                isHurt = false
+            };
+
+            var pokemon2 = new PokemonStatusComposition
+            {
+                pokemon = new PokemonData()
+                {
+                    Id = 2,
+                    Nome = "Bulbassauro",
+                    Tipo = "Planta"
+                },
+                isHurt = false
+            };
+        }
+    }
 }
 
 
