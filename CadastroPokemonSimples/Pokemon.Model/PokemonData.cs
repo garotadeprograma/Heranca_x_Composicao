@@ -49,6 +49,9 @@ namespace Pokemon.Model
                 },
                 isHurt = false
             };
+
+            Console.WriteLine($"{Environment.NewLine}{pokemon1.Nome}");
+            Console.WriteLine($"{Environment.NewLine}{pokemon2.pokemon.Nome}");
         }
     }
 }
