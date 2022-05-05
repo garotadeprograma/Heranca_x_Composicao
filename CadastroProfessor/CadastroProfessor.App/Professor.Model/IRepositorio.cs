@@ -16,6 +16,15 @@ namespace Professor.Model
     // Especializada
     public interface IRepositorioProfessor
     {
-        void Adicionar(Professor obj);
+        void Adicionar(ProfessorInfo obj);
     }
+
+    public class Repositorio<T> : IRepositorio<T>
+    {
+        public void Adicionar(T ojb)
+        {Console.WriteLine("Repositorio Generico");}
+
+        public void Excluir(T obj)
+        {Console.WriteLine("Repositorio Generico2");}
+    } 
 }

@@ -1,5 +1,5 @@
 ﻿namespace Professor.Model;
-public class Professor
+public class ProfessorInfo
 {
 
 }
